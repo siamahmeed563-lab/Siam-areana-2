@@ -1,0 +1,1629 @@
+{
+  "bangladeshi": [
+    {
+      "name": "BTV",
+      "icon": "📡",
+      "sub": "🔴 ফ্রি · সারা দেশে",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+    },
+    {
+      "name": "Channel 1 HD",
+      "icon": "📰",
+      "sub": "🔴 লাইভ",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
+    },
+    {
+      "name": "NTV",
+      "icon": "📺",
+      "sub": "🔴 লাইভ",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
+    },
+    {
+      "name": "Jamuna TV",
+      "icon": "🌊",
+      "sub": "🔴 সংবাদ",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
+    },
+    {
+      "name": "Channel i",
+      "icon": "📡",
+      "sub": "🔴 বিনোদন",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
+    },
+    {
+      "name": "Deepto TV",
+      "icon": "💡",
+      "sub": "🔴 লাইভ",
+      "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
+    },
+    {
+      "name": "ATN Bangla",
+      "icon": "🎬",
+      "sub": "🔴 বিনোদন",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
+    },
+    {
+      "name": "Bioscope +(FIFA)",
+      "icon": "🎬",
+      "sub": "🔴 লাইভ",
+      "url": "https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8"
+    }
+  ],
+  "sports": [
+    {
+      "name": "RTV GO",
+      "icon": "⚽",
+      "url": "https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8"
+    },
+    {
+      "name": "Go Live",
+      "icon": "🎥",
+      "url": "https://nowzyplus.live/stream-proxy?url=https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8"
+    },
+    {
+      "name": "Korra City",
+      "icon": "⚽",
+      "url": "https://ed.omener.xyz/qoozn2_720/index.m3u8"
+    },
+    {
+      "name": "MAT4",
+      "icon": "📡",
+      "url": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8"
+    },
+    {
+      "name": "CC TV 5",
+      "icon": "🇨🇳",
+      "url": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8"
+    },
+    {
+      "name": "TSN 4",
+      "icon": "🏆",
+      "url": "https://ataide0.sman1asjap.my.id/tsn.m3u8"
+    },
+    {
+      "name": "Bein Sports 1 (Arabic)",
+      "icon": "🇸🇦",
+      "url": "https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8"
+    },
+    {
+      "name": "Cola tv live",
+      "icon": "🎙️",
+      "url": "https://live05.msdht.app/live/24561735.m3u8"
+    },
+    {
+      "name": "BeIN Sports Direct",
+      "icon": "🏆",
+      "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+    },
+    {
+      "name": "TYC Sports",
+      "icon": "🇦🇷",
+      "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8631.m3u8"
+    },
+    {
+      "name": "TNT Sports ARG",
+      "icon": "🇦🇷",
+      "url": "https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8"
+    },
+    {
+      "name": "Manson Sports",
+      "icon": "🏟️",
+      "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8"
+    },
+    {
+      "name": "Caze TV",
+      "icon": "🇧🇷",
+      "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+    },
+    {
+      "name": "Dazn Direct",
+      "icon": "🎯",
+      "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
+    },
+    {
+      "name": "TPV Sport",
+      "icon": "🏅",
+      "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8"
+    },
+    {
+      "name": "D Sports",
+      "icon": "🏆",
+      "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8"
+    },
+    {
+      "name": "D Sports 2",
+      "icon": "🏆",
+      "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8"
+    },
+    {
+      "name": "Somoy TV FIFA",
+      "icon": "🕛",
+      "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
+    },
+    {
+      "name": "FIFA Live",
+      "icon": "⚽",
+      "url": "https://pub-834eb2e520a04905b6d7b7bb7e84d277.r2.dev/en/index.m3u8"
+    },
+    {
+      "name": "TSN 4",
+      "icon": "📡",
+      "url": "https://ataide0.nawapholengineering.co.th/tsn.m3u8"
+    },
+    {
+      "name": "Real Madrid TV",
+      "icon": "⚽",
+      "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8"
+    },
+    {
+      "name": "LALIGA Inside",
+      "icon": "🇪🇸",
+      "url": "https://d3bb58xoj568xi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/a5faafd1-5d98-4fe1-996c-c33206fd3324/3.m3u8"
+    },
+    {
+      "name": "FIFA +",
+      "icon": "🏆",
+      "url": "https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/bf2e2c08-6355-4c5a-8d38-e6f4470a558d/0.m3u8"
+    },
+    {
+      "name": "WILLOW SPORTS",
+      "icon": "🏏",
+      "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+    },
+    {
+      "name": "ELTA (FIFA)",
+      "icon": "⚽",
+      "url": "https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8"
+    },
+    {
+      "name": "Win Sports",
+      "icon": "🏆",
+      "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
+    },
+    {
+      "name": "Telemendu",
+      "icon": "📺",
+      "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+    },
+    {
+      "name": "TUDN Sports",
+      "icon": "⚽",
+      "url": "https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8"
+    },
+    {
+      "name": "Espn 1 COL (PM)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9516.m3u8"
+    },
+    {
+      "name": "Espn 1 COL (e)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9517.m3u8"
+    },
+    {
+      "name": "Espn 1 ARG (TV)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9521.m3u8"
+    },
+    {
+      "name": "Espn 1 ARG (i)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9520.m3u8"
+    },
+    {
+      "name": "Espn 1 ARG (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9522.m3u8"
+    },
+    {
+      "name": "Espn 1 CHI (TV)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/99538.m3u8"
+    },
+    {
+      "name": "Espn 1 CHI (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/99539.m3u8"
+    },
+    {
+      "name": "Espn 1 CHI (e)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179479.m3u8"
+    },
+    {
+      "name": "Espn 1 MEX (i)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9525.m3u8"
+    },
+    {
+      "name": "Espn 1 MEX (L)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9523.m3u8"
+    },
+    {
+      "name": "Espn 2 ARG (PM)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9527.m3u8"
+    },
+    {
+      "name": "Espn 2 ARG (e)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9526.m3u8"
+    },
+    {
+      "name": "Espn 2 ARG (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9528.m3u8"
+    },
+    {
+      "name": "Espn 2 COL (TV)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9529.m3u8"
+    },
+    {
+      "name": "Espn 2 COL (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179486.m3u8"
+    },
+    {
+      "name": "Espn 2 MEX (L)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9530.m3u8"
+    },
+    {
+      "name": "Espn 2 MEX (TV)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9531.m3u8"
+    },
+    {
+      "name": "Espn 2 SUR (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179489.m3u8"
+    },
+    {
+      "name": "Espn  3 ARG (Z)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179492.m3u8"
+    },
+    {
+      "name": "Espn 3 ARG (L)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9533.m3u8"
+    },
+    {
+      "name": "Espn 3 ARG (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9534.m3u8"
+    },
+    {
+      "name": "Espn 3 CH (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179495.m3u8"
+    },
+    {
+      "name": "Espn 3 COL (M)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9532.m3u8"
+    },
+    {
+      "name": "Espn 3 COL (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179493.m3u8"
+    },
+    {
+      "name": "Espn 3 MEX (M)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9536.m3u8"
+    },
+    {
+      "name": "Espn 3 Sur (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179498.m3u8"
+    },
+    {
+      "name": "Espn 4 (TV)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9538.m3u8"
+    },
+    {
+      "name": "Espn 4 COL (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179509.m3u8"
+    },
+    {
+      "name": "Espn 4 MEX (M)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9537.m3u8"
+    },
+    {
+      "name": "Espn 4 MX (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179502.m3u8"
+    },
+    {
+      "name": "Espn 5 (M)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9539.m3u8"
+    },
+    {
+      "name": "Espn 5 (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179513.m3u8"
+    },
+    {
+      "name": "Espn 5 AR (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179517.m3u8"
+    },
+    {
+      "name": "Espn 6 (M)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179518.m3u8"
+    },
+    {
+      "name": "Espn 7 (M)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9543.m3u8"
+    },
+    {
+      "name": "ESPN 7 (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9574.m3u8"
+    },
+    {
+      "name": "Espn 7 CH (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179519.m3u8"
+    },
+    {
+      "name": "Espn Deportes (MEX) (M)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9544.m3u8"
+    },
+    {
+      "name": "Espn Deportes (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179504.m3u8"
+    },
+    {
+      "name": "Espn Extra ARG (L)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9545.m3u8"
+    },
+    {
+      "name": "Espn Extra MEX (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9547.m3u8"
+    },
+    {
+      "name": "Espn News (Z)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179490.m3u8"
+    },
+    {
+      "name": "ESPN Premium ARG (L)(SD)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9549.m3u8"
+    },
+    {
+      "name": "Espn Premium ARG (M)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9546.m3u8"
+    },
+    {
+      "name": "ESPN Premium ARG (TV)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9550.m3u8"
+    },
+    {
+      "name": "Espn Premium ARG (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179511.m3u8"
+    },
+    {
+      "name": "ESPN Premium CL (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/115016.m3u8"
+    },
+    {
+      "name": "Espn U (Z)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179512.m3u8"
+    },
+    {
+      "name": "Fox Sports 1 ARG (L)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9575.m3u8"
+    },
+    {
+      "name": "Fox Sports 1 ARG (M)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9576.m3u8"
+    },
+    {
+      "name": "Fox Sports 1 CH (Z)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179535.m3u8"
+    },
+    {
+      "name": "Fox Sports 1 COL (TV)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9577.m3u8"
+    },
+    {
+      "name": "Fox Sports 1 LAT (Z)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9578.m3u8"
+    },
+    {
+      "name": "Fox Sports 1 LAT (Z)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179523.m3u8"
+    },
+    {
+      "name": "Fox Sports 1 MEX (M)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9579.m3u8"
+    },
+    {
+      "name": "Fox Sports 2 (Z)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179531.m3u8"
+    },
+    {
+      "name": "Fox Sports 2 AR (Z)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179524.m3u8"
+    },
+    {
+      "name": "Fox Sports 2 ARG (i)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9582.m3u8"
+    },
+    {
+      "name": "Fox Sports 2 ARG (L)(SD)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9581.m3u8"
+    },
+    {
+      "name": "Fox Sports 2 COL (TV)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9583.m3u8"
+    },
+    {
+      "name": "Fox Sports 2 LAT (Z)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9580.m3u8"
+    },
+    {
+      "name": "Fox Sports 2 LAT (Z)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179522.m3u8"
+    },
+    {
+      "name": "Fox Sports 2 LAT (Z)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179528.m3u8"
+    },
+    {
+      "name": "Fox Sports 2 MEX (L)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9584.m3u8"
+    },
+    {
+      "name": "Fox Sports 2 MEX (M)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9585.m3u8"
+    },
+    {
+      "name": "Fox Sports 2 MX (Z)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9586.m3u8"
+    },
+    {
+      "name": "Fox Sports 2 MX (Z)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179529.m3u8"
+    },
+    {
+      "name": "Fox Sports 2 Sur (Z)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179532.m3u8"
+    },
+    {
+      "name": "Fox Sports 3 (Z)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179520.m3u8"
+    },
+    {
+      "name": "Fox Sports 3 ARG (TV)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9589.m3u8"
+    },
+    {
+      "name": "Fox Sports 3 COL (TV)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9590.m3u8"
+    },
+    {
+      "name": "Fox Sports 3 MEX (M)(SD)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9591.m3u8"
+    },
+    {
+      "name": "Fox Sports 3 MX (Z)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9592.m3u8"
+    },
+    {
+      "name": "Fox Sports 3 MX (Z)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179525.m3u8"
+    },
+    {
+      "name": "Fox Sports Premium (Z)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179530.m3u8"
+    },
+    {
+      "name": "Fox Sports Premium (Z)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/179534.m3u8"
+    },
+    {
+      "name": "Fox Sports Premium MX (i)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9593.m3u8"
+    },
+    {
+      "name": "beIN Sport USA (M)(720)",
+      "icon": "⚽",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9551.m3u8"
+    },
+    {
+      "name": "beIN Sports Xtra Ñ (TV)(720)",
+      "icon": "⚽",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9552.m3u8"
+    },
+    {
+      "name": "Sky sports (TV)(720)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9599.m3u8"
+    },
+    {
+      "name": "SKY Sports La liga (TV)(720)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9601.m3u8"
+    },
+    {
+      "name": "SKY Sports LaLiga (Z)(720)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/164158.m3u8"
+    },
+    {
+      "name": "SKY Sports Premier League (Z)(720)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/164159.m3u8"
+    },
+    {
+      "name": "PPV - Dazn 1 (L)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/156148.m3u8"
+    },
+    {
+      "name": "PPV - Dazn 2 (L)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/156151.m3u8"
+    },
+    {
+      "name": "PPV - Dazn F1 (L)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/156163.m3u8"
+    },
+    {
+      "name": "PPV - Dazn LaLiga (L)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/156156.m3u8"
+    },
+    {
+      "name": "PPV - Dazn LaLiga 1 (TV)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/156157.m3u8"
+    },
+    {
+      "name": "PPV - Dazn LaLiga 3 (TV) (Solo Eventos)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/156161.m3u8"
+    },
+    {
+      "name": "PPV - Dazn MotoGP (TV)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/191951.m3u8"
+    },
+    {
+      "name": "PPV - Serie A: Dazn Sport 1 (TV)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/156173.m3u8"
+    },
+    {
+      "name": "MUNDIAL 01 ES - DAZN (TV)(1080)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211286.m3u8"
+    },
+    {
+      "name": "MUNDIAL 01 ITALIA - DAZN (V)(1080)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211288.m3u8"
+    },
+    {
+      "name": "MUNDIAL 4K  - LA 1 (TV)(4K)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211289.m3u8"
+    },
+    {
+      "name": "MUNDIAL 02 - Dazn Mundial 1 (TV)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211335.m3u8"
+    },
+    {
+      "name": "MUNDIAL 04 - Dazn Mundial 1 (TV)(1080)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211336.m3u8"
+    },
+    {
+      "name": "MUNDIAL 05 - Dazn Mundial 2 (TV)(SD)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211337.m3u8"
+    },
+    {
+      "name": "MUNDIAL 06 - Dazn Mundial 2 (TV)(1080)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211338.m3u8"
+    },
+    {
+      "name": "MUNDIAL 07 - Dazn Mundial 2 (TV)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211339.m3u8"
+    },
+    {
+      "name": "MUNDIAL 08 - Dazn Mundial 2 (TV)(1080)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211340.m3u8"
+    },
+    {
+      "name": "MUNDIAL 4K - FUBO Telemundo (L)(4K)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211341.m3u8"
+    },
+    {
+      "name": "MUNDIAL 4K - SLING (L)(4K)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211342.m3u8"
+    },
+    {
+      "name": "MUNDIAL USA: TSN 1 HD",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211490.m3u8"
+    },
+    {
+      "name": "MUNDIAL USA: TSN 3",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211491.m3u8"
+    },
+    {
+      "name": "MUNDIAL USA: TSN 3 HD",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211492.m3u8"
+    },
+    {
+      "name": "MUNDIAL USA: TSN 4",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211493.m3u8"
+    },
+    {
+      "name": "MUNDIAL USA: TSN 4 HD",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211494.m3u8"
+    },
+    {
+      "name": "MUNDIAL USA: TSN 5 HD",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211495.m3u8"
+    },
+    {
+      "name": "Mundial FR: M6 (4K)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211612.m3u8"
+    },
+    {
+      "name": "MUNDIAL 01 ALEMANIA - DAZN (V)(1080)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211287.m3u8"
+    },
+    {
+      "name": "Mundial-Chilevision 4K (TV)(4k)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/212803.m3u8"
+    },
+    {
+      "name": "Mundial-Sport tv 4K (TV)(4k)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/212804.m3u8"
+    },
+    {
+      "name": "Mundial-Fussball (4K)(TV)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/212805.m3u8"
+    },
+    {
+      "name": "MUNDIAL 01 | Directv (e)(1080)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213342.m3u8"
+    },
+    {
+      "name": "MUNDIAL 02 | Directv (e)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213343.m3u8"
+    },
+    {
+      "name": "MUNDIAL 03 | Directv (Z)(SD)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213344.m3u8"
+    },
+    {
+      "name": "MUNDIAL 04 | Directv (L)(1080)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213345.m3u8"
+    },
+    {
+      "name": "MUNDIAL 05 | Directv 2 (e)(1080)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213346.m3u8"
+    },
+    {
+      "name": "MUNDIAL 06 | Directv 2 (e)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213347.m3u8"
+    },
+    {
+      "name": "MUNDIAL 07 | Directv 2 (M)(SD)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213348.m3u8"
+    },
+    {
+      "name": "MUNDIAL 08 | Directv 2 (L)(1080)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213349.m3u8"
+    },
+    {
+      "name": "MUNDIAL 09 | Directv + (e)(1080)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213350.m3u8"
+    },
+    {
+      "name": "MUNDIAL 10 | Directv + (e)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213351.m3u8"
+    },
+    {
+      "name": "MUNDIAL 11 | Directv + (V)(SD)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213352.m3u8"
+    },
+    {
+      "name": "MUNDIAL 12 | Directv + (TV)(1080)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213353.m3u8"
+    },
+    {
+      "name": "MUNDIAL 13 | Caracol (L)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213354.m3u8"
+    },
+    {
+      "name": "MUNDIAL 14 | Caracol (TV)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213355.m3u8"
+    },
+    {
+      "name": "MUNDIAL 15 | RCN (M)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213356.m3u8"
+    },
+    {
+      "name": "MUNDIAL 16 | Azteca 7 (L)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213357.m3u8"
+    },
+    {
+      "name": "MUNDIAL 17 | Azteca 7 (V)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213358.m3u8"
+    },
+    {
+      "name": "MUNDIAL 18 | Canal 5 MX (L)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213359.m3u8"
+    },
+    {
+      "name": "MUNDIAL 19 | TyC Sports (L)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213360.m3u8"
+    },
+    {
+      "name": "MUNDIAL 20 | TyC Sports (M)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213361.m3u8"
+    },
+    {
+      "name": "MUNDIAL 21 | TyC Sports (V)(SD)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213362.m3u8"
+    },
+    {
+      "name": "MUNDIAL 22 | TeleAmazonas (e)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213363.m3u8"
+    },
+    {
+      "name": "MUNDIAL 23 | Teleamazonas (e)(SD)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213364.m3u8"
+    },
+    {
+      "name": "MUNDIAL 24 | Chilevison (e)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213365.m3u8"
+    },
+    {
+      "name": "MUNDIAL 25 | Chilevison (TV)(SD)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213366.m3u8"
+    },
+    {
+      "name": "MUNDIAL 26 | America TV (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213367.m3u8"
+    },
+    {
+      "name": "MUNDIAL 27 | Telefe (M)(SD)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213368.m3u8"
+    },
+    {
+      "name": "MUNDIAL 28 | Telefe (TV)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213369.m3u8"
+    },
+    {
+      "name": "MUNDIAL 29 | Canal 5 UY (TV)(SD)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213370.m3u8"
+    },
+    {
+      "name": "MUNDIAL 30 | TV Azteca (L)(SD)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213371.m3u8"
+    },
+    {
+      "name": "MUNDIAL 31 | Las Estrellas (Z)(SD)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213372.m3u8"
+    },
+    {
+      "name": "MUNDIAL 32 | Telemundo (TV)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213373.m3u8"
+    },
+    {
+      "name": "MUNDIAL 33 | Telemundo (L)(SD)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213374.m3u8"
+    },
+    {
+      "name": "MUNDIAL 34 | Telemundo (M)(1080)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213375.m3u8"
+    },
+    {
+      "name": "MUNDIAL 35 | Telemundo (V)(SD)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213376.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 01 | 16:00 Panama vs Inglaterra (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213596.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 02 | 16:00 Panama vs Inglaterra (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213597.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 03 | 16:00 Panama vs Inglaterra (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213598.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 04 | 16:00 Croacia vs Ghana (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213599.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 05 | 16:00 Croacia vs Ghana (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213600.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 06 | 16:00 Croacia vs Ghana (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213601.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 07 | 18:30 Colombia vs Portugal (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213602.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 08 | 18:30 Colombia vs Portugal (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213603.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 09 | 18:30 Colombia vs Portugal (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213604.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 10 | 18:30 RD Congo vs Uzbekistan (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213605.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 11 | 18:30 RD Congo vs Uzbekistan (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213606.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 12 | 18:30 RD Congo vs Uzbekistan (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213607.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 13 | 21:00 Jordania vs Argentina (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213608.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 14 | 21:00 Jordania vs Argentina (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213609.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 15 | 21:00 Jordania vs Argentina (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213610.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 16 | 21:00 Argelia vs Austria (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213611.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 17 | 21:00 Argelia vs Austria (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213612.m3u8"
+    },
+    {
+      "name": "MUNDIAL • 18 | 21:00 Argelia vs Austria (Z)(720)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/213613.m3u8"
+    },
+    {
+      "name": "ARG - ESPN (M)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/157558.m3u8"
+    },
+    {
+      "name": "ARG - ESPN 2 (M)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/157559.m3u8"
+    },
+    {
+      "name": "ARG - ESPN 3 (M)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/157560.m3u8"
+    },
+    {
+      "name": "ARG - ESPN 4 (M)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/157561.m3u8"
+    },
+    {
+      "name": "ARG - ESPN Premium (M)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/157562.m3u8"
+    },
+    {
+      "name": "CHI-Espn 1 (L)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9905.m3u8"
+    },
+    {
+      "name": "CHI-Espn 1 (PM)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/143375.m3u8"
+    },
+    {
+      "name": "CHI-Espn 2 (M)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9906.m3u8"
+    },
+    {
+      "name": "CHI-Espn 2 (TV)(1080)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9907.m3u8"
+    },
+    {
+      "name": "CHI-Fox Sports 2 (M)(1080)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/9913.m3u8"
+    },
+    {
+      "name": "CHI-Espn Premium (TV)(SD)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/87175.m3u8"
+    },
+    {
+      "name": "ESP - EUROSPORT 1 (V)(720)",
+      "icon": "🏅",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/161908.m3u8"
+    },
+    {
+      "name": "ES DAZN 1 F(M)(720)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/161922.m3u8"
+    },
+    {
+      "name": "ES DAZN 2 F(M)(720)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/161923.m3u8"
+    },
+    {
+      "name": "ES DAZN 3 (M)(720)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/161925.m3u8"
+    },
+    {
+      "name": "ESP - Eurosport 2 (TV)(720)",
+      "icon": "🏅",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/8181.m3u8"
+    },
+    {
+      "name": "ESP -  Dazn F1 (M)(720)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/161953.m3u8"
+    },
+    {
+      "name": "ESP - Eurosport 2 (M)(720)",
+      "icon": "🏅",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/161958.m3u8"
+    },
+    {
+      "name": "CAN-Bein Sports (M)(720)",
+      "icon": "⚽",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/45817.m3u8"
+    },
+    {
+      "name": "USA-Bein Sports Xtra (L)(720)",
+      "icon": "⚽",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/162520.m3u8"
+    },
+    {
+      "name": "USA-ESPN (L)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/162675.m3u8"
+    },
+    {
+      "name": "USA-ESPN 2 (L)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/162676.m3u8"
+    },
+    {
+      "name": "USA-ESPNews (L)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/162677.m3u8"
+    },
+    {
+      "name": "BRA-Espn 2 (M)(720)",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/180758.m3u8"
+    },
+    {
+      "name": "BRA-Espn 4",
+      "icon": "📺",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/180760.m3u8"
+    },
+    {
+      "name": "BRA-Fox Sports (M)(720)",
+      "icon": "🦊",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/180768.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports Premier League (V)(1080)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201503.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports Cricket (V)(1080)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201504.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports F1 (V)(4K)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201505.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports+ (V)(1080)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201506.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports+ (V)(1080)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201507.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports Football (V)(1080)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201508.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports Golf (V)(1080)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201509.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports+ (V)(720)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201510.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports Main Event (V)(1080)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201511.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports Mix (V)(1080)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201512.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports News (V)(1080)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201513.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports NFL (V)(1080)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201514.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports Racing (V)(1080)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201515.m3u8"
+    },
+    {
+      "name": "UK-Sky Sports+ (V)(SD)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201516.m3u8"
+    },
+    {
+      "name": "UK-Sky Sport Tennis (V)(SD)",
+      "icon": "🌐",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201517.m3u8"
+    },
+    {
+      "name": "UK-Dazn 1 (V)(720)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201518.m3u8"
+    },
+    {
+      "name": "UK-DAZN 1 (V)(1080)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201519.m3u8"
+    },
+    {
+      "name": "UK-EuroSport1 (V)(1080)",
+      "icon": "🏅",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201605.m3u8"
+    },
+    {
+      "name": "UK-EuroSport 1 (V)(720)",
+      "icon": "🏅",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201606.m3u8"
+    },
+    {
+      "name": "UK-EuroSport 2 (V)(1080)",
+      "icon": "🏅",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/201607.m3u8"
+    },
+    {
+      "name": "FRA-Bein Sports 1 (V)(1080)",
+      "icon": "⚽",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/206961.m3u8"
+    },
+    {
+      "name": "FRA-Bein Sports 2 (V)(1080)",
+      "icon": "⚽",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/206962.m3u8"
+    },
+    {
+      "name": "FRA-BEIN SPORTS 3  (V)(1080)",
+      "icon": "⚽",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/206963.m3u8"
+    },
+    {
+      "name": "FRA-EUROSPORT 1 (V)(1080)",
+      "icon": "🏅",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/206965.m3u8"
+    },
+    {
+      "name": "FRA-EUROSPORT 2 (V)(1080)",
+      "icon": "🏅",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/206966.m3u8"
+    },
+    {
+      "name": "FRA- DAZN Prime Video 1 -1 (V)(720)",
+      "icon": "🎯",
+      "url": "http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/206974.m3u8"
+    },
+    {
+      "name": "Capitán Tsubasa: ¡Batalla mundial! El torneo mundial juvenil (1986)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/6355.mp4"
+    },
+    {
+      "name": "Guerra mundial Z (2013)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/97459.mkv"
+    },
+    {
+      "name": "Guerra mundial Z (2013)(60 FPS)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/197288.mkv"
+    },
+    {
+      "name": "Triunfos Robados: Enfrentamiento mundial (2017)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/196737.mkv"
+    },
+    {
+      "name": "Trolls 2: Gira mundial (2020)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/27832.mkv"
+    },
+    {
+      "name": "Willow (1988)",
+      "icon": "🏅",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/2664.mkv"
+    },
+    {
+      "name": "Willow (1988)",
+      "icon": "🏅",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/6322.mkv"
+    },
+    {
+      "name": "Being.Flynn.2012.PGD.",
+      "icon": "⚽",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/204351.mkv"
+    },
+    {
+      "name": "De Rolling 2: Por el sueño mundialista (2014)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/205056.mkv"
+    },
+    {
+      "name": "Being Flynn (2012)",
+      "icon": "⚽",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/207645.mkv"
+    },
+    {
+      "name": "Hot Wheels Highway 35: Carrera mundial (2003)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/208491.mkv"
+    },
+    {
+      "name": "Being 'Shallow Hal' (2001)",
+      "icon": "⚽",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/209621.mkv"
+    },
+    {
+      "name": "Team America: Policía mundial (2004)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/209837.mkv"
+    },
+    {
+      "name": "The Perks of Being a Wallflower (2012)",
+      "icon": "⚽",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/210271.mkv"
+    },
+    {
+      "name": "Trolls 2: Gira Mundial (2020)",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/210558.mkv"
+    },
+    {
+      "name": "BangBros - La impúdica Logan Xander y Willow Ryder en acción de POV",
+      "icon": "🏅",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/171040.mp4"
+    },
+    {
+      "name": "Tushy - Escena de misionero protagonizado por la impecable Willow Ryder",
+      "icon": "🏅",
+      "url": "http://tv.zeuspro.xyz:8080/movie/peterordonez/OKEtJocXkL/172670.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E01",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130360.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E02",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130361.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E03",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130362.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E04",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130363.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E05",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130364.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E06",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130365.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E07",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130366.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E08",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130367.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E09",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130368.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E10",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130369.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E11",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130370.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E12",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130371.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E13",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130372.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E14",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130373.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E15",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130374.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E16",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130375.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E17",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130376.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E18",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130377.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E19",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130378.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E20",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130379.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E21",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130380.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E22",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130381.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E23",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130382.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E24",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130383.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E25",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130384.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E26",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130385.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E27",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130386.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E28",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130387.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E29",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130388.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E30",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130389.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E31",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130390.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E32",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130391.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E33",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130392.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E34",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130393.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E35",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130394.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E36",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130395.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E37",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130396.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E38",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130397.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E39",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130398.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E40",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130399.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E41",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130400.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E42",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130401.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E43",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130402.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E44",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130403.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E45",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130404.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E46",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130405.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E47",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130406.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E48",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130407.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E49",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130408.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E50",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130409.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E51",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130410.mp4"
+    },
+    {
+      "name": "Super Campeones hacia el Mundial: Oliver y Benji (2002) S01 E52",
+      "icon": "🏆",
+      "url": "http://tv.zeuspro.xyz:8080/series/peterordonez/OKEtJocXkL/130411.mp4"
+    }
+  ]
+}
